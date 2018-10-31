@@ -1,13 +1,13 @@
-[![NPM](https://nodei.co/npm/sequelize-auto-migrations-ng.png?compact=true)](https://nodei.co/npm/sequelize-auto-migrations-ng/)
+this is a fork from sequelize-auto-migrations-ng
 
-# sequelize-auto-migrations-ng
+# sequelize-auto-migrations
 Migration generator for sequelize.
 
 This package provides one tool:
 * `makemigration` - tool for create new migrations
 
 ## Install
-`npm install sequelize-auto-migrations-ng`
+`npm install git+https://git@github.com/oneworkio/sequelize-auto-migrations.git --save`
 
 ## Usage
 * Init sequelize, with sequelize-cli, using `sequelize init`
